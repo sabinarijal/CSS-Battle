@@ -1,0 +1,42 @@
+body{
+    background:#FEFAE3;
+  }
+ .top {
+   background:#D4A469;
+   width:42px;
+   height:200px;
+   transform:rotate(90deg);
+   margin-left:170px;
+   margin-top:-38px;
+ 
+ }
+  .bottom {
+    background:#D4A469;
+   width:42px;
+   height:200px;
+    margin-top:-40px;
+   margin-left:170px;
+   transform:rotate(90deg);
+  
+  
+
+  }
+  
+  .left {
+    background:#B17036;
+   width:42px;
+   height:161px;
+    margin-top:-240px;
+   margin-left:91px;
+    position:absolute;
+  }
+  
+  .right {
+    background:#B17036;
+    width:41px;
+    height:160px;
+    margin-left:250px;
+    margin-top:-281px;
+    position:absolute;
+    
+  }
