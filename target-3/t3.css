@@ -1,0 +1,25 @@
+
+  body{
+    background:#62306D;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .circle1{
+    width:120px;
+    height:120px;
+    border:40px solid #F7EC7D;
+    border-radius:50%;
+    
+  }
+  .circle2{
+    position:absolute;
+    width:120px;
+    height:120px;
+    border:40px solid #E38F66;
+    border-radius:50%;
+    clip-path: polygon(0% 0%, 50% 0%, 50% 50%, -450% 50%,0% 100%);
+    
+ }
+
+
