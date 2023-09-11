@@ -1,0 +1,24 @@
+body{
+    background:#998235;
+   
+  }
+  .box1{
+    position:relative;
+    width:72px;
+    height:139px;
+    background:#0B2429;
+    margin-top:78px;
+    margin-left:131px;
+    transform:rotate(45deg);
+    z-index:1;
+    
+  }
+ .box2{
+   width:70px;
+   height:139px;
+   background:#FCBE5C;
+   margin-top:-130px;
+   margin-left:190px;
+   transform:rotate(-45deg);  
+ }
+   
