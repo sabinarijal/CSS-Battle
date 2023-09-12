@@ -1,0 +1,29 @@
+body{
+     background:#E3516E;
+     display:flex;
+     justify-content:center;
+     align-items:center;
+   }
+  .box{
+    width:184px;
+    height:184px;
+    background:#FADE8B;
+    
+  }
+  .line1{
+    position:absolute;
+    width:30px;
+    height:300px;
+    background:#E3516E;
+    transform:rotate(45deg);
+    
+    
+  }
+  .line2{
+    position:absolute;
+    width:30px;
+    height:300px;
+    background:#E3516E;
+    transform:rotate(-45deg);
+  }
+
