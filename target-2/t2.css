@@ -1,6 +1,8 @@
 body{
     background:#998235;
-   
+    position:relative;
+    top:100px;
+    left:400px;
   }
   .box1{
     position:relative;
