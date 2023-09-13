@@ -1,5 +1,8 @@
 body{
     background:#FEFAE3;
+    position:relative;
+    top:100px;
+    left:400px;;
   }
  .top {
    background:#D4A469;
