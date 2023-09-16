@@ -1,0 +1,19 @@
+
+  .rect1 {
+    width: 202px;
+    height: 350px;
+    margin-top:-20px;
+    margin-left:-10px;
+    background: linear-gradient(#A4281F 6%,#DE9473 50%);
+    position:absolute;
+  }
+  .rect2{
+     background:#DE9473;
+    width: 202px;
+    height: 350px;
+    margin-left:192px;
+    position:absolute;
+    margin-top:-20px;
+    
+
+  }
