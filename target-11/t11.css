@@ -1,0 +1,25 @@
+ body{
+    background:#F5D6B4;
+    display:flex;
+    height: 100vh;
+    justify-content:center;
+    align-items:center;
+  }
+  .box {
+    width: 150px;
+    height: 150px;
+    position:absolute;
+    background:#D86F45;
+  }
+  .line1{
+    width:250px;
+    height:50px;
+    background:#D86F45;
+    position:absolute;
+  }
+  .line2{
+    width:250px;
+    height:50px;
+    background:#D86F45;
+    transform:rotate(90deg);
+  }
