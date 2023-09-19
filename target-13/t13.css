@@ -1,0 +1,28 @@
+ body {
+    background:#ED6A9D;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height: 100vh;
+  }
+  .one , .two{
+    height:150px;
+    width:100px;
+    background:#050044;
+    border-top-left-radius:50px;
+    border-bottom-left-radius:50px;
+    border-top-right-radius:25px;
+    border-bottom-right-radius:25px;
+    
+  }
+  .two{
+    transform:rotate(180deg);
+     margin-left:20px;  
+  }
+  .line{
+    height:20px;
+    width:50px;
+    background:#050044;
+    position:absolute;
+  }
+
