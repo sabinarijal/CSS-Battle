@@ -1,0 +1,19 @@
+
+  body {
+    background:#FFFFFF;
+  }
+  .rect1,.rect2{
+    background:#000000;  
+  }
+  .rect1{
+    height:60px;
+    width:500px;
+    margin-top:120px;
+    margin-left:-10px;
+  }
+  .rect2{
+    height:200px;
+    width:60px;
+    margin-left:162px;
+  }
+
