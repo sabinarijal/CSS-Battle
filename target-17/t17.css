@@ -1,0 +1,27 @@
+
+  body{
+    background:#9CCCDB;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .square{
+    width:200px;
+    height:200px;
+    background:#FEFAE0;
+  }
+  .line1 , .line2{
+    width:60px;
+    background:#9CCCDB;
+    position:absolute;
+  }
+  .line1{
+    height:170px;
+    margin:0px 0px 50px 60px;
+  }
+  .line2{
+    height:160px;
+    margin:40px 60px 0px 0px;
+  }
+
+
