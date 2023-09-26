@@ -1,0 +1,21 @@
+body{
+    background:#3C31A0;
+   display:flex;
+   justify-content:center;
+   align-items:center;
+  }
+  .line1 , .line2{
+    background:#E5DDD9;
+    height:500px;
+    width:50px;
+    position:absolute;
+  }
+  .line2{
+    transform:rotate(90deg);
+  }
+  .rect{
+    width:150px;
+    height:150px;
+    border:50px solid #3C31A0;
+    z-index:1;
+  }
