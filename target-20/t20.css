@@ -1,0 +1,38 @@
+
+  body{
+    background:#0D1335;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height: 100vh;
+  }
+  .center{
+    background:#73C6EA;
+    height:40px;
+    width:40px;
+    border-radius:50%;
+    position:absolute;
+  }
+  .orange,.green,.white{
+    width:90px;
+    height:230px;
+    border-radius:50%;
+     position:absolute;
+    
+  }
+  .orange{
+    rotate:-30deg;
+    border:10px solid #DC6638;
+    z-index:1;
+    
+  }
+  .green{
+    border:10px solid #4FA07B;
+    rotate:30deg;
+  }
+  .white{
+    border:10px solid #FBFAE2;
+    rotate:90deg;
+    z-index:-1;
+  }
+
