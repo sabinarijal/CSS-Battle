@@ -1,0 +1,30 @@
+
+  body{
+    background:#5E2D8C;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height: 100vh;
+  }
+  .rect{
+    height:120px;
+    width:200px;
+    border:40px solid #F7ED5A;
+    position:absolute;
+  }
+  .box1 ,.box2{
+    height:40px;
+    width:40px;
+    background:#F7ED5A;
+    margin:20px;
+  }
+  .rect::before {
+  content: '';
+  position: absolute;
+  top: -40px; 
+  left: 40%; 
+  width: 40px; 
+  height: 40px; 
+  background: #5E2D8C;  
+}
+
