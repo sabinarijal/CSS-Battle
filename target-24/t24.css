@@ -1,0 +1,19 @@
+
+  body{
+    background:#ED6A9D;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .line1,.line2{
+    background:#050044;
+    height:500px;
+    width:50px;
+    position:absolute;
+  }
+  .line1{
+    margin-top:-10px;
+  }
+  .line2{
+    transform:rotate(90deg);
+  }
