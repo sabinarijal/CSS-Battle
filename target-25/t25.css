@@ -1,0 +1,22 @@
+
+  body{
+    background:#B5D1FB;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .circle{
+    background:#230259;
+    height:200px;
+    width:200px;
+    border-radius:50%;
+    margin-top:50px;
+    position:absolute;
+  }
+  .triangle{
+    border-left:150px solid transparent;
+    border-right:150px solid transparent;
+    border-bottom:150px solid #8819F6;
+    margin-bottom:100px;
+    z-index:1;
+  }
