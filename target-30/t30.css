@@ -1,0 +1,24 @@
+  body{
+    background:#A9C482;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height: 100vh;
+  }
+  .j1{
+  color:#2D696F;
+  font-size:400px;
+  font-family: sans-serif;
+  position: absolute;
+  transform:rotate(180deg);
+  margin-right:140px;
+  margin-top:75;
+  }
+  .j2{
+  color:#2D696F;
+  font-size:400px;
+  font-family: sans-serif;
+  position: absolute;
+  margin-left:140px;
+  margin-bottom:80px;
+  }
