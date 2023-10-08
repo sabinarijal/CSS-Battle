@@ -1,0 +1,24 @@
+  body{
+    background:#ED6A9D;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height: 100vh;
+  }
+  .circle{
+    height:160px;
+    width:160px;
+    border:40px solid #050044;
+    border-radius:50%;
+    position:absolute;
+  }
+  .line1,.line2{
+    height:300px;
+    width:40px;
+    background:#ED6A9D;
+    position:absolute;
+  }
+  .line2{
+    transform:rotate(90deg);
+    
+  }
