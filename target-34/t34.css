@@ -1,0 +1,34 @@
+
+
+  body{
+    background:#FEFAE3;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height: 100vh;
+  }
+  .first,.second,.third{
+    height:150px;
+    width:50px;
+    border-radius:50%/16%;
+    position:absolute;
+  }
+  .first{
+    background:#B17036;
+    transform:rotate(45deg);
+    margin-bottom:70px;
+    margin-right:80px;   
+  }
+  .second{
+    height:190px;
+     border-radius:50%/15%;
+    background:#D4A469;
+    transform:rotate(90deg);
+    z-index:-1;
+  }
+  .third{
+    background:#B17036;
+    transform:rotate(45deg);
+    margin-top:70px;
+    margin-left:80px;
+  }
